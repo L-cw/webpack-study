@@ -1,0 +1,10 @@
+.DS_Store
+/dist
+/node_modules
+node_modules
+node_modules**
+npm-debug.log
+npm-debug.log.*
+!.gitkeep
+.project
+.vscode
